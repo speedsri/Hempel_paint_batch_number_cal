@@ -9,7 +9,7 @@ This web application helps users calculate the expiry date of Hempel paint produ
 - Supports multiple shelf life options (2, 3, 5 years)
 - User-friendly interface
 - Responsive design
-https://imgur.com/0nNdFaK
+![alt text]([http://url/to/img.png](https://github.com/speedsri/Hempel_paint_batch_number_cal/blob/376fb3bb25b05ca16dabcd937a2a845fe356c350/imag_1.png)) 
 ## Prerequisites
 - Web server with PHP support (recommended)
 - Modern web browser (Chrome, Firefox, Safari, Edge)
