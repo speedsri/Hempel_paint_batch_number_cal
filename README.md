@@ -46,7 +46,7 @@ This web application helps users calculate the expiry date of Hempel paint produ
 
 ### How to Use
 1. Enter complete 9-digit batch number
-![myimage-alt-tag]( https://github.com/speedsri/Hempel_paint_batch_number_cal/blob/main/imag_2.png) 
+![myimage-alt-tag](https://github.com/speedsri/Hempel_paint_batch_number_cal/blob/main/imag_3.png) 
  
    - Example: `428090744`
 2. Select shelf life (2/3/5 years)
